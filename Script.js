@@ -291,7 +291,6 @@ document.addEventListener('DOMContentLoaded', function() {
             "Graphic Design",
             "Video Editing", 
             "Motion Graphics",
-            "Visual Storytelling",
             "Let's Begin"
         ];
         
@@ -1266,3 +1265,4 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             });
         });
+
